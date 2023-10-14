@@ -33,9 +33,8 @@
 ##### Монтирование раздела
 ![2_4](https://github.com/NikolayAntipov/DB_13-02/assets/132283141/d99d5fe4-a854-4d99-8fdd-40fdecd2be35)
 
-##### Итоговый результат
-![2_5](https://github.com/NikolayAntipov/DB_13-02/assets/132283141/44250ac4-e892-4966-a587-ece35710c396)
-![2_6](https://github.com/NikolayAntipov/DB_13-02/assets/132283141/e8bc0576-8a13-4edf-878e-1e1d18c1b4f5)
+##### Смотнированный зашифрованный раздел в папку .secret
+![Снимок](https://github.com/NikolayAntipov/DB_13-02/assets/132283141/537dce9a-38c9-4084-a28e-c993e93cd8b7)
 
 
 
